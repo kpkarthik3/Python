@@ -468,9 +468,9 @@ height=""""0"""" width=""""0"""" style=""""display:none;visibility:hidden""""></
 				</div>
 				<div class="col-md-3 col-sm-12 col-xs-12 sub-foot">
 				<ul class="social-net list-inline social-net-colors margin-30">
-                       <li  class="social-net__item"><a target=_blank class="social-net__link" href="https://twitter.com/Delight_movers"><i class="icon fa fa-twitter"  style="color:#fff;"></i></a></li>
-                    <li  class="social-net__item"><a target=_blank class="social-net__link" href="https://www.facebook.com/delightmovers"><i class="icon fa fa-facebook" style="color:#fff;"></i></a></li>
-                    <li  class="social-net__item"><a target=_blank class="social-net__link" href="https://plus.google.com/+Delightmovers"><i class="icon fa fa-google-plus" style="color:#fff;"></i></a></li>
+                       <li class="social-net__item"><a class="social-net__link" href="twitter.com"><i class="icon fa fa-twitter"></i></a></li>
+                    <li class="social-net__item"><a class="social-net__link" href="facebook.com"><i class="icon fa fa-facebook"></i></a></li>
+                    <li class="social-net__item"><a class="social-net__link" href="plus.google.com"><i class="icon fa fa-google-plus"></i></a></li>
                     <!-- <li class="social-net__item"><a class="social-net__link" href="behance.com"><i class="icon fa fa-behance"></i></a></li>
                     <li class="social-net__item"><a class="social-net__link" href="pinterest.com"><i class="icon fa fa-pinterest"></i></a></li> -->
                   </ul>
